@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MouseBoardGame/static/css/main.b59e21bc.css",
+    "main.js": "/MouseBoardGame/static/js/main.1cc9cfb2.js",
+    "static/media/mouse3.png": "/MouseBoardGame/static/media/mouse3.b3dccbc5b15ebf3f4ad6.png",
+    "index.html": "/MouseBoardGame/index.html",
+    "main.b59e21bc.css.map": "/MouseBoardGame/static/css/main.b59e21bc.css.map",
+    "main.1cc9cfb2.js.map": "/MouseBoardGame/static/js/main.1cc9cfb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b59e21bc.css",
+    "static/js/main.1cc9cfb2.js"
+  ]
+}
